@@ -1,0 +1,38 @@
+
+.container-header {
+    text-align: center;
+    color: revert;
+    font-size: 150%;
+    font-family: cursive;
+    background-color: white;
+    height: 100px;
+}
+.container {
+    background-color: white;
+    text-align: center;
+    color: revert;
+    font-size: 150%;
+    font-family: cursive;
+    height: 85px;
+
+}
+
+#contact-info {
+    font-size: 60%;
+    font-family: cursive;
+    /* float: right; */
+    width: 15%;
+    white-space: nowrap;
+    position: absolute;
+    top: 15px;
+    right: 70px;
+}
+h1 {
+    margin: 0;
+    position: relative;
+    top: 15px;
+    font-size: 40px;
+
+}
+
+

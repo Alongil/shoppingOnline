@@ -1,0 +1,27 @@
+section {
+    min-height: 100%;
+    /* border: 2px solid black; */
+    background-color: aqua;
+    text-align: center;
+    box-sizing: border-box;
+    /* display: grid; */
+    /* grid-template-columns: repeat(12, 1fr);  */
+    /* grid-template-rows: 4em auto 20px; */
+    /* 3 rows */
+}
+
+section > * {
+    border: 2px solid black;
+}
+
+header {
+    grid-column: span 12;
+}
+
+/* aside {
+    grid-column: span 2;
+} */
+
+main {
+    grid-column: span 10;   
+}

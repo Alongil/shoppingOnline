@@ -1,0 +1,6 @@
+.home {
+    border: solid black 2px;
+    width: 33%;
+    display: table-cell;
+    height: 500px;
+}
